@@ -1,0 +1,9 @@
+html {
+  width: 100%;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hidden {
+  display: none;
+}
